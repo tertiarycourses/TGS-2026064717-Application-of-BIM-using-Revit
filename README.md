@@ -5,7 +5,7 @@
 **Turn 2D drawings into intelligent, data-rich building models — and manage the whole BIM lifecycle in Autodesk Revit.**
 
 [![Register](https://img.shields.io/badge/Register-tertiarycourses.com.sg-1F6FEB?style=for-the-badge)](https://www.tertiarycourses.com.sg/wsq-application-of-bim-using-revit.html)
-[![WSQ](https://img.shields.io/badge/WSQ-TGS--2022015370-10B981?style=flat-square)](https://www.tertiarycourses.com.sg/wsq-application-of-bim-using-revit.html)
+[![WSQ](https://img.shields.io/badge/WSQ-TGS--2026064717-10B981?style=flat-square)](https://www.tertiarycourses.com.sg/wsq-application-of-bim-using-revit.html)
 [![TSC](https://img.shields.io/badge/TSC-BEV--TEM--3027--1.1--1-7C3AED?style=flat-square)](#course-details)
 [![Duration](https://img.shields.io/badge/Duration-2%20days%20·%2016%20hours-F59E0B?style=flat-square)](#course-details)
 [![Labs](https://img.shields.io/badge/Hands--on%20Labs-10-1F6FEB?style=flat-square)](labs/)
@@ -78,7 +78,7 @@ Each lab has its own folder under [labs/](labs/) with a step-by-step README and 
 | | |
 |---|---|
 | **Course Title** | WSQ — Application of BIM using Revit |
-| **Course Code** | TGS-2022015370 |
+| **Course Code** | TGS-2026064717 |
 | **Skills Framework TSC** | Building Information Modelling Application (BEV-TEM-3027-1.1-1) |
 | **Duration** | 2 days · 16 hours (9:30am–6:30pm) |
 | **Mode** | Instructor-led, hands-on Revit labs |
@@ -86,7 +86,7 @@ Each lab has its own folder under [labs/](labs/) with a step-by-step README and 
 | **Certification** | WSQ Statement of Attainment (SOA) on being assessed Competent |
 | **Provider** | Tertiary Infotech Academy Pte Ltd (UEN 201200696W) |
 
-**Funding:** This is a SkillsFuture WSQ-funded course — SkillsFuture funding, SkillsFuture Credit, UTAP and absentee payroll may apply to eligible learners and companies. See the [course registration page](https://www.tertiarycourses.com.sg/wsq-application-of-bim-using-revit.html) for current funding details and course runs.
+**Funding:** Up to 70% course fee funding: 50% baseline for Singapore Citizens and PRs aged 21+, up to 70% for Singapore Citizens aged 40+ (MCES) and SME-sponsored employees. Eligibility and terms apply. See the [course registration page](https://www.tertiarycourses.com.sg/wsq-application-of-bim-using-revit.html) for current funding details and course runs.
 
 ## Building the Courseware
 
